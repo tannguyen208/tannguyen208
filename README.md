@@ -1,5 +1,5 @@
 ### Profile 🧑‍💻
-I'm Tan, a Front-end developer from Viet Nam :vietnam: with over 3 years of experience in the web industry
+I'm Tan, a Front-end developer from Viet Nam :vietnam: with over 4 years of experience in the web industry
 
 ### Experience 👋
 
