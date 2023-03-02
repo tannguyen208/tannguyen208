@@ -20,4 +20,6 @@ I'm Tan, a Front-end developer from Viet Nam :vietnam: with over 4 years of expe
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 ### Impact 💫
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tannguyen208&count_private=true)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tannguyen208&hide_border=true&border_radius=4)](https://git.io/streak-stats)
